@@ -1,0 +1,26 @@
+[
+    {
+        "id": "83f273d8-bfff-4f6d-8d2d-18b7c2f72aa9",
+        "usuario_id": null,
+        "nome": "ciclano",
+        "idade": "50",
+        "plano": "senior",
+        "lista_de_exercicios": "2"
+    },
+    {
+        "id": "a873afcb-fc91-46a2-bd77-76874ff2e79f",
+        "usuario_id": null,
+        "nome": "ciclano",
+        "idade": "50",
+        "plano": "senior",
+        "lista_de_exercicios": "2"
+    },
+    {
+        "id": "2bc0af9d-e5f4-4d9c-b039-aaf5f549430e",
+        "usuario_id": null,
+        "nome": "ciclano",
+        "idade": "50",
+        "plano": "senior",
+        "lista_de_exercicios": "2"
+    }
+]
